@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Karteek\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Karteek\\.nuget\\packages"
+    ]
+  }
+}
